@@ -5,8 +5,8 @@ description: >
   Pumpkin spice black, french press bar seasonal id coffee.
   Whipped carajillo french press doppio at latte extra half
   and half roast aftertaste grinder aftertaste.
-baseurl: ""
-url: "http://tocaki.net"
+baseurl: "/dev"
+url: "http://tocaki.github.io"
 facebook: tocakinet
 instagram: tocakinet
 twitter: tocakinet
@@ -78,12 +78,12 @@ prose:
       - name: image
         field:
           element: select
-          options: 'http://tocaki.net/jsonp/avatars.jsonp?callback=avatars'
+          options: 'http://tocaki.github.io/jsonp/avatars.jsonp?callback=avatars'
           label: Imagem
       - name: city
         field:
           element: select
-          options: 'http://tocaki.net/jsonp/cities.jsonp?callback=cities'
+          options: 'http://tocaki.github.io/jsonp/cities.jsonp?callback=cities'
           label: Cidade
       - name: type
         field:
@@ -95,7 +95,7 @@ prose:
       - name: genre
         field:
           element: select
-          options: 'http://tocaki.net/jsonp/genres.jsonp?callback=genres'
+          options: 'http://tocaki.github.io/jsonp/genres.jsonp?callback=genres'
           label: Gênero
       - name: portfolio
         field:
