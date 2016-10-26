@@ -75,7 +75,7 @@ prose:
           element: textarea
           label: Descrição
           help: Máximo de 150 caracteres
-      - name: image
+      - name: avatar
         field:
           element: select
           options: 'http://tocaki.github.io/jsonp/avatars.jsonp?callback=avatars'
