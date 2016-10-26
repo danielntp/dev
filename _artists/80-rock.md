@@ -9,6 +9,7 @@ facebook: banda80rock
 email: banda80rock@gmail.com
 phone: (31) 97310-5806
 published: true
+image: /images/artists/80-rock.jpg
 ---
 A banda nasceu em meados de 2013 em Sabará, MG, região metropolitana de Belo Horizonte, MG. É um projeto criado por Clayson Gomes e Cristiano Placido que depois de encerrarem atividades com outros projetos resolveram entrar de cabeça nesse trabalho.
 Com o passar dos tempos começamos a compor bastante e fomos inserindo as nossas composições no repertório da banda, hoje somos uma banda exclusivamente autoral mas sem perder as origens e as influencias.
