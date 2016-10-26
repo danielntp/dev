@@ -75,15 +75,15 @@ prose:
           element: textarea
           label: Descrição
           help: Máximo de 150 caracteres
-      - name: avatar
+      - name: image
         field:
           element: select
-          options: 'http://tocaki.github.io/jsonp/avatars.jsonp?callback=avatars'
+          options: 'http://tocaki.github.io/dev/jsonp/avatars.jsonp?callback=avatars'
           label: Imagem
       - name: city
         field:
           element: select
-          options: 'http://tocaki.github.io/jsonp/cities.jsonp?callback=cities'
+          options: 'http://tocaki.github.io/dev/jsonp/cities.jsonp?callback=cities'
           label: Cidade
       - name: type
         field:
@@ -95,7 +95,7 @@ prose:
       - name: genre
         field:
           element: select
-          options: 'http://tocaki.github.io/jsonp/genres.jsonp?callback=genres'
+          options: 'http://tocaki.github.io/dev/jsonp/genres.jsonp?callback=genres'
           label: Gênero
       - name: portfolio
         field:
