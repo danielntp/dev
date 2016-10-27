@@ -1,10 +1,7 @@
 # Site settings
 title: Tocaki
 email: contato@tocaki.net
-description: >
-  Pumpkin spice black, french press bar seasonal id coffee.
-  Whipped carajillo french press doppio at latte extra half
-  and half roast aftertaste grinder aftertaste.
+description: Descrição aqui
 baseurl: "/dev"
 url: "http://tocaki.github.io"
 facebook: tocakinet
